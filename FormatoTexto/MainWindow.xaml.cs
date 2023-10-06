@@ -40,6 +40,7 @@ namespace FormatoTexto
         private void botonAzul_Checked(object sender, RoutedEventArgs e)
         {
             texto.Foreground = new SolidColorBrush(Colors.Blue);
+            // texto.Foreground = Brushes.Red;
         }
 
         private void botonRojo_Checked(object sender, RoutedEventArgs e)
