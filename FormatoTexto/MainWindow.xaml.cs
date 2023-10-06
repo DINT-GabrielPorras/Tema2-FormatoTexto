@@ -24,6 +24,7 @@ namespace FormatoTexto
         {
             InitializeComponent();
             botonAzul.IsChecked = true;
+            // botonRojo.IsIsChecked = true;
         }
 
         private void negrita_Checked(object sender, RoutedEventArgs e)
